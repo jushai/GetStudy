@@ -10,23 +10,23 @@
 
 + 数据结构
   + 相关课程课件：https://github.com/edu2act/course-datastructure
-  + 课程复习文档：
+  + 课程复习文档：https://github.com/jushai/GetStudy/tree/master/docs/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84
 
 + 计算机组成原理
   + 相关课程课件：https://github.com/edu2act/course-computer-organization
-  + 课程复习文档：
+  + 课程复习文档：https://github.com/jushai/GetStudy/tree/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86
 
 + 软件测试基础
   + 相关课程课件：https://github.com/edu2act/course-foundation-software-tesing
-  + 课程总复习文档：
+  + 课程总复习文档：https://github.com/jushai/GetStudy/tree/master/docs/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%9F%BA%E7%A1%80
 
 + 面向对象程序设计基础（Java）
   + 相关课程课件：https://github.com/edu2act/course-JavaSE
 
 + web开发二
   + 相关课程课件：https://github.com/edu2act/course-web2
-  + 课程总复习文档：
-  + 课程相关练习和复习文档：
+  + 课程总复习文档：https://github.com/jushai/GetStudy/blob/master/docs/web%E5%BC%80%E5%8F%91/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.md
+  + 课程相关练习和复习文档：https://github.com/jushai/GetStudy/tree/master/docs/web%E5%BC%80%E5%8F%91
 
 
 ## 联系我们
