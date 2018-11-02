@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Work06_1：实现二叉树", "Work06_1：实现二叉树\Work06_1：实现二叉树.vcxproj", "{5ADEFF9E-FE33-4BCD-88FF-3BA7984A586B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADEFF9E-FE33-4BCD-88FF-3BA7984A586B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5ADEFF9E-FE33-4BCD-88FF-3BA7984A586B}.Debug|Win32.Build.0 = Debug|Win32
+		{5ADEFF9E-FE33-4BCD-88FF-3BA7984A586B}.Release|Win32.ActiveCfg = Release|Win32
+		{5ADEFF9E-FE33-4BCD-88FF-3BA7984A586B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
